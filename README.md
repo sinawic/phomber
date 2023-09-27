@@ -60,7 +60,10 @@ docker pull sinawic/phomber:latest
 ```
 docker run --rm -it sinawic/phomber:latest
 ```
-
+- __video for usage and dockerization steps__
+```
+very soon
+```
 
 <br>
 
